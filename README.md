@@ -12,3 +12,8 @@ Following are details of each directory:
   - Particle Electron Firmware
   - ESP32 TTGO T-Call firmware
 
+Some Kicad generated 3D images:
+
+![Front Side](https://github.com/shridattdudhat/Oxikit-Brainboard/blob/main/images/front.png?raw=true)
+![Back Side](https://github.com/shridattdudhat/Oxikit-Brainboard/blob/main/images/back.png?raw=true)
+![Side View](https://github.com/shridattdudhat/Oxikit-Brainboard/blob/main/images/sideView.png?raw=true)
