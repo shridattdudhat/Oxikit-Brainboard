@@ -18,3 +18,8 @@ Some Kicad generated 3D images:
 ![Front Side](https://github.com/shridattdudhat/Oxikit-Brainboard/blob/main/images/front.png?raw=true)
 ![Back Side](https://github.com/shridattdudhat/Oxikit-Brainboard/blob/main/images/back.png?raw=true)
 ![Side View](https://github.com/shridattdudhat/Oxikit-Brainboard/blob/main/images/sideView.png?raw=true)
+
+First prototypes of BrainBoard:
+
+![Particle electron](https://github.com/shridattdudhat/Oxikit-Brainboard/blob/main/images/ElectronPOC.jpeg?raw=true)
+![EPS32](https://github.com/shridattdudhat/Oxikit-Brainboard/blob/main/images/Esp32POC.jpeg?raw=true)
