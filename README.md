@@ -22,4 +22,4 @@ Some Kicad generated 3D images:
 First prototypes of BrainBoard:
 
 ![Particle electron](https://github.com/shridattdudhat/Oxikit-Brainboard/blob/main/images/ElectronPOC.jpeg?raw=true)
-![EPS32](https://github.com/shridattdudhat/Oxikit-Brainboard/blob/main/images/Esp32POC.jpeg?raw=true)
+![EPS32](https://github.com/shridattdudhat/Oxikit-Brainboard/blob/main/images/ESP32POC.jpeg?raw=true)
