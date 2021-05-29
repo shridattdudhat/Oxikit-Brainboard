@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name "OxiKit-footprint-lib")(type "KiCad")(uri "${KIPRJMOD}/OxiKit-footprint-lib.pretty")(options "")(descr ""))
+)

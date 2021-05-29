@@ -1,4 +1,4 @@
-19249103602469739
+19252348065530087
 1775838-2
 TE_1775838-2
 
@@ -59758,6 +59758,20 @@ DIL DIP PDIP 2.54mm 7.62mm 300mil
 0
 4
 4
+OxiKit-footprint-lib
+ABP-Honeywell
+
+
+0
+6
+6
+OxiKit-footprint-lib
+ABP-Series-Pressure
+
+
+0
+6
+6
 Package_BGA
 Analog_BGA-28_4.0x6.25mm_Layout4x7_P0.8mm_Ball0.45mm_Pad0.4
 Analog BGA-28 4.0mm x 6.25mm package, pitch 0.4mm pad, based on https://www.analog.com/media/en/technical-documentation/data-sheets/8063fa.pdf
