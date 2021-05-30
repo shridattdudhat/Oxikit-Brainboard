@@ -15,9 +15,9 @@ Following are details of each directory:
 
 Some Kicad generated 3D images:
 
-![Front Side](https://github.com/shridattdudhat/Oxikit-Brainboard/blob/main/images/front.png?raw=true)
-![Back Side](https://github.com/shridattdudhat/Oxikit-Brainboard/blob/main/images/back.png?raw=true)
-![Side View](https://github.com/shridattdudhat/Oxikit-Brainboard/blob/main/images/sideView.png?raw=true)
+![Front Side](https://github.com/shridattdudhat/Oxikit-Brainboard/blob/main/images/Image-ABP-1.png?raw=true)
+![Back Side](https://github.com/shridattdudhat/Oxikit-Brainboard/blob/main/images/Image-ABP-2.png?raw=true)
+![Side View](https://github.com/shridattdudhat/Oxikit-Brainboard/blob/main/images/Image-ABP-4.png?raw=true)
 
 First prototypes of BrainBoard:
 
