@@ -1,4 +1,4 @@
-(kicad_pcb (version 20210228) (generator pcbnew)
+(kicad_pcb (version 20210722) (generator pcbnew)
 
   (general
     (thickness 1.6)
@@ -5509,7 +5509,7 @@
   (gr_text "Oxikit Brainboard\nRev. 1.2\n08 Jun '21" (at 114.5 66.75) (layer "F.SilkS") (tstamp cfb9aa27-371e-489d-a2eb-b309359a956b)
     (effects (font (size 1 1) (thickness 0.15)) (justify left))
   )
-  (gr_text "I2C" (at 67.1 44.2 90) (layer "F.SilkS") (tstamp dcd18649-ed20-43d1-849e-ad0ef4833b55)
+  (gr_text "I2C" (at 67 44 90) (layer "F.SilkS") (tstamp dcd18649-ed20-43d1-849e-ad0ef4833b55)
     (effects (font (size 1.2 1.2) (thickness 0.18)))
   )
 
